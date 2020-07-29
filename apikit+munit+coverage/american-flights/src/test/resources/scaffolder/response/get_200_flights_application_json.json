@@ -1,0 +1,1 @@
+[{"code":"0001","destination":"LAX","origin":"MUA","departureDate":"2016-01-20","price":"541","plane":{"emptySeats":200,"type":"Boeing 787"}},{"code":"0123","destination":"CLE","origin":"MUA","departureDate":"2016-01-25","price":"300","plane":{"emptySeats":345,"type":"Boeing 747"}}]
